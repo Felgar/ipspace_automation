@@ -5,4 +5,4 @@ The vEOS switches are connected in a Clos network.
 
 The VM and the switches shares a management LAN.
 
-![Lab](/01_build_the_lan/lab.png)
+![Lab](/01_build_the_lab/lab.png)
